@@ -1,0 +1,24 @@
+.item{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    width: 280px;
+    height: 30px;
+    border: 1px solid #ede7f6;
+    padding: 5px;
+    background: rgb(74, 34, 34);
+    border-radius: 5px;
+    align-items: center;
+    border: none;
+    color: rgb(148, 139, 139);
+}
+p{
+    margin: 0;
+    font-size: 20px;
+    font-family: "fantasy";
+}
+.item-btn{
+    color: red;
+    background: #000;
+    border-radius: 50%;
+}
